@@ -1,0 +1,74 @@
+   Activity
+LoginActivity
+MainActivity
+MainMenuActivity
+OutletCreateActivity
+OutletDetaileActivity
+OutletListActivity
+SKUListActivity
+   
+   Adapter
+OrderedSKUListAdapter
+OutletListAdapter
+SKUListAdapter
+
+
+   BusinessObject
+Outlet
+OutletList
+SalesOrder
+SalesOrderLine
+SalesOrderLineList
+SKU
+SKUList
+
+
+     Model
+OutletModel
+SalesOrderModel
+SKUModel
+
+    Sync
+DataObject
+DataSync
+DataSyncModel
+JsonParser
+NetworkStream
+
+   SyncAdapter
+DataContract
+DataProvider
+DBHandler
+GenericAccountService
+SyncAdapter
+SyncService
+SyncUtils
+
+
+
+     res
+   
+drawable
+layout
+menu
+mipmap-hdpi
+mipmap-xxxhdpi
+mipmap-xhdpi
+mipmap-mdpi
+mipmap-xxhdpi
+values-w820dp
+values
+xml
+
+
+
+
+
+
+
+
+
+
+
+
+

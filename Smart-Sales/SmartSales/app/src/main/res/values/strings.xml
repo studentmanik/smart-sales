@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Sales</string>
+    <string name="Account">com.studentmanik.smartsales.SyncAdapter</string>
+    <string name="web_app">http://www.smartsales.tk/</string>
+</resources>

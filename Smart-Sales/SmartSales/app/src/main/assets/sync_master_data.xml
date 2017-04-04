@@ -1,0 +1,5 @@
+<?xml version="1.0"?><!--httpGet===1--><!--HttpPost===2--><!--httpPut===3-->
+<class>
+    <services http_method="2" url="/mobile_api/sync_outlet.php"></services>
+    <services http_method="2" url="/mobile_api/sync_sku.php"></services>
+</class>
